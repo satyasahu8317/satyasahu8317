@@ -11,17 +11,13 @@
   <a href="https://www.linkedin.com/in/satyaprakash-sahu-0296972b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/satyasaho8317" target="_blank">
+  <a href="https://github.com/satyasahu8317" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
- 
   </a>
   <a href="mailto:sahusatya8317@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=satyasaho8317&label=Profile+Views&color=a78bfa&style=flat-square" />
 
 </div>
 
@@ -110,7 +106,7 @@ class Satyaprakash:
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" />
       </p>
-      <a href="https://github.com/satyasaho8317">📂 GitHub</a>
+      <a href="https://github.com/satyasahu8317/deepfake_detector">📂 GitHub</a>
     </td>
   </tr>
   <tr>
@@ -122,17 +118,18 @@ class Satyaprakash:
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
       </p>
-      <a href="https://github.com/satyasaho8317">📂 GitHub</a>
+      <a href="https://github.com/satyasahu8317">📂 GitHub</a>
     </td>
     <td width="50%">
-      <h3>🏠 Bengaluru House Price Predictor</h3>
-      <p>Flask ML web app predicting house prices using a trained regression model with location, area, and amenity features as inputs.</p>
+      <h3>🖨️ AI Print Platform</h3>
+      <p>End-to-end AI-driven printing platform for thenimantran.com with automated design generation, order management, and demand prediction capabilities.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/satyasaho8317/bangaluru_house_price_app">📂 GitHub</a>
+      <a href="https://github.com/satyasahu8317/ai-print-platform">📂 GitHub</a>
     </td>
   </tr>
 </table>
@@ -178,10 +175,14 @@ class Satyaprakash:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyasaho8317&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasaho8317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyasahu8317&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasahu8317&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyasaho8317&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyasahu8317&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
@@ -191,7 +192,7 @@ class Satyaprakash:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyasaho8317&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/satyasaho8317)
+[![trophy](https://github-profile-trophy.vercel.app/?username=satyasahu8317&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/satyasahu8317)
 
 </div>
 
@@ -201,7 +202,7 @@ class Satyaprakash:
 
 <div align="center">
 
-[![Satyaprakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyasaho8317&theme=tokyo-night&hide_border=true)](https://github.com/satyasaho8317)
+[![Satyaprakash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyasahu8317&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff)](https://github.com/satyasahu8317)
 
 </div>
 
