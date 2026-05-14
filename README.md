@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyaprakash%20Sahu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ML%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20IoT%20Enthusiast&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work+%F0%9F%A4%96;ML+%2B+Full-Stack+%2B+IoT+%3D+Me+%F0%9F%94%A5;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+work+%F0%9F%A4%96;ML+%2B+Full-Stack+%2B+IoT+%3D+Me+%F0%9F%94%A5;Currently+exploring+LLMs+%26+MLOps+%F0%9F%A7%AA;Open+to+exciting+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <a href="https://portfolio-omega-lilac-42.vercel.app/" target="_blank">
@@ -11,14 +11,13 @@
   <a href="https://www.linkedin.com/in/satyaprakash-sahu-0296972b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/satyasahu8317" target="_blank">
+  <a href="https://github.com/satyasaho8317" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://unstop.com/u/sahusat92147" target="_blank">
-    <img src="https://img.shields.io/badge/Unstop-FF5733?style=for-the-badge&logo=target&logoColor=white" />
+ 
   </a>
-  <a href="mailto:satyaprakashsahu@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:sahusatya8317@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,13 +31,15 @@
 
 ```python
 class Satyaprakash:
-    name       = "Satyaprakash Sahu"
-    role       = "ML Developer & Full-Stack Engineer"
-    location   = "Ghaziabad, India 🇮🇳"
-    education  = ["B.Tech @ AKGEC Ghaziabad", "BS Electronics (In Progress)"]
-    working_at = "thenimantran.com"
-    interests  = ["Machine Learning", "IoT", "Full-Stack", "AI Systems"]
-    available  = True  # Open to opportunities!
+    name        = "Satyaprakash Sahu"
+    role        = "ML Developer & Full-Stack Engineer"
+    location    = "Ghaziabad, India 🇮🇳"
+    education   = ["B.Tech @ AKGEC Ghaziabad", "BS Electronics (In Progress)"]
+    working_at  = "thenimantran.com"
+    interests   = ["Machine Learning", "IoT", "Full-Stack", "AI Systems"]
+    learning    = ["Deep Learning & LLMs", "Cloud & MLOps"]
+    fun_facts   = ["Badminton player 🏸", "FreeFire gamer 🎮"]
+    available   = True  # Open to opportunities!
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something cool 🚀")
@@ -46,9 +47,9 @@ class Satyaprakash:
 
 - 🤖 ML Developer building **AI-powered production systems** at thenimantran.com
 - 🌉 I bridge the gap between **software and hardware** — ML meets IoT
-- 🧪 6+ AI systems shipped to production including LLM bots, CV models, and ERP systems
+- 🧪 **6+ AI systems** shipped to production: LLM bots, CV models, ERP systems
 - 📡 Exploring the intersection of **machine learning**, **electronics**, and **full-stack dev**
-- 🌱 Learner • Developer • Explorer
+- 🌱 Currently diving deep into **LLMs** and **MLOps / Cloud deployments**
 
 ---
 
@@ -81,7 +82,7 @@ class Satyaprakash:
 
 ### 🔌 Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-Systems-8B5CF6?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_Systems-8B5CF6?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -91,7 +92,7 @@ class Satyaprakash:
   <tr>
     <td width="50%">
       <h3>🏗️ Synchron ERP (SchedulifyAI)</h3>
-      <p>Microservices ERP with AI-driven timetable generator. Node.js API Gateway + Python FastAPI + Cerebras LLMs. Deployed on AWS EC2 with GitHub Actions CI/CD — 80% faster deployments.</p>
+      <p>Microservices ERP with AI-driven timetable generator. Node.js API Gateway + Python FastAPI + Cerebras LLMs. Deployed on AWS EC2 with GitHub Actions CI/CD — <strong>80% faster deployments</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -151,6 +152,28 @@ class Satyaprakash:
 
 ---
 
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning_&_LLMs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLOps](https://img.shields.io/badge/Cloud_&_MLOps-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+```
+🏸  I smash on the badminton court as hard as I debug my code
+🎮  FreeFire is my go-to unwind — clutch plays only
+☕  Best commits happen after 10 PM
+🤖  I talk to AI all day... and build it too
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -190,6 +213,8 @@ class Satyaprakash:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+📬 **Reach me at:** [sahusatya8317@gmail.com](mailto:sahusatya8317@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
